@@ -1,0 +1,6 @@
+C:\Users\colin\source\repos\section9-2\section9-2\obj\Debug\section9-2.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\section9-2\section9-2\bin\Debug\section9-2.exe.config
+C:\Users\colin\source\repos\section9-2\section9-2\bin\Debug\section9-2.exe
+C:\Users\colin\source\repos\section9-2\section9-2\bin\Debug\section9-2.pdb
+C:\Users\colin\source\repos\section9-2\section9-2\obj\Debug\section9-2.exe
+C:\Users\colin\source\repos\section9-2\section9-2\obj\Debug\section9-2.pdb

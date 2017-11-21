@@ -1,0 +1,6 @@
+C:\Users\colin\source\repos\section6reverse\section6reverse\bin\Debug\section6reverse.exe.config
+C:\Users\colin\source\repos\section6reverse\section6reverse\bin\Debug\section6reverse.exe
+C:\Users\colin\source\repos\section6reverse\section6reverse\bin\Debug\section6reverse.pdb
+C:\Users\colin\source\repos\section6reverse\section6reverse\obj\Debug\section6reverse.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\section6reverse\section6reverse\obj\Debug\section6reverse.exe
+C:\Users\colin\source\repos\section6reverse\section6reverse\obj\Debug\section6reverse.pdb

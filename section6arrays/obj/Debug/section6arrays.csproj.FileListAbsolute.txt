@@ -1,0 +1,7 @@
+C:\Users\colin\source\repos\section6arrays\section6arrays\bin\Debug\section6arrays.exe.config
+C:\Users\colin\source\repos\section6arrays\section6arrays\bin\Debug\section6arrays.exe
+C:\Users\colin\source\repos\section6arrays\section6arrays\bin\Debug\section6arrays.pdb
+C:\Users\colin\source\repos\section6arrays\section6arrays\obj\Debug\section6arrays.csprojResolveAssemblyReference.cache
+C:\Users\colin\source\repos\section6arrays\section6arrays\obj\Debug\section6arrays.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\section6arrays\section6arrays\obj\Debug\section6arrays.exe
+C:\Users\colin\source\repos\section6arrays\section6arrays\obj\Debug\section6arrays.pdb

@@ -1,0 +1,6 @@
+C:\Users\colin\source\repos\validnumber\validnumber\obj\Debug\validnumber.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\validnumber\validnumber\bin\Debug\validnumber.exe.config
+C:\Users\colin\source\repos\validnumber\validnumber\bin\Debug\validnumber.exe
+C:\Users\colin\source\repos\validnumber\validnumber\bin\Debug\validnumber.pdb
+C:\Users\colin\source\repos\validnumber\validnumber\obj\Debug\validnumber.exe
+C:\Users\colin\source\repos\validnumber\validnumber\obj\Debug\validnumber.pdb

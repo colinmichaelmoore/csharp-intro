@@ -1,0 +1,6 @@
+C:\Users\colin\source\repos\guessnumber\guessnumber\bin\Debug\guessnumber.exe.config
+C:\Users\colin\source\repos\guessnumber\guessnumber\bin\Debug\guessnumber.exe
+C:\Users\colin\source\repos\guessnumber\guessnumber\bin\Debug\guessnumber.pdb
+C:\Users\colin\source\repos\guessnumber\guessnumber\obj\Debug\guessnumber.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\guessnumber\guessnumber\obj\Debug\guessnumber.exe
+C:\Users\colin\source\repos\guessnumber\guessnumber\obj\Debug\guessnumber.pdb

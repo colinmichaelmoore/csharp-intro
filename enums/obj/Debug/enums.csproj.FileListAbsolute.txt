@@ -1,0 +1,6 @@
+C:\Users\colin\source\repos\enums\enums\bin\Debug\enums.exe.config
+C:\Users\colin\source\repos\enums\enums\bin\Debug\enums.exe
+C:\Users\colin\source\repos\enums\enums\bin\Debug\enums.pdb
+C:\Users\colin\source\repos\enums\enums\obj\Debug\enums.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\enums\enums\obj\Debug\enums.exe
+C:\Users\colin\source\repos\enums\enums\obj\Debug\enums.pdb

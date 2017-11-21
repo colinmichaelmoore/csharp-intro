@@ -1,0 +1,6 @@
+C:\Users\colin\source\repos\conditional\conditional\bin\Debug\conditional.exe.config
+C:\Users\colin\source\repos\conditional\conditional\bin\Debug\conditional.exe
+C:\Users\colin\source\repos\conditional\conditional\bin\Debug\conditional.pdb
+C:\Users\colin\source\repos\conditional\conditional\obj\Debug\conditional.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\conditional\conditional\obj\Debug\conditional.exe
+C:\Users\colin\source\repos\conditional\conditional\obj\Debug\conditional.pdb

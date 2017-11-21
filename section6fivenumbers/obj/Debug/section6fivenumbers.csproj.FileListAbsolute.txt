@@ -1,0 +1,6 @@
+C:\Users\colin\source\repos\section6fivenumbers\section6fivenumbers\obj\Debug\section6fivenumbers.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\section6fivenumbers\section6fivenumbers\bin\Debug\section6fivenumbers.exe.config
+C:\Users\colin\source\repos\section6fivenumbers\section6fivenumbers\bin\Debug\section6fivenumbers.exe
+C:\Users\colin\source\repos\section6fivenumbers\section6fivenumbers\bin\Debug\section6fivenumbers.pdb
+C:\Users\colin\source\repos\section6fivenumbers\section6fivenumbers\obj\Debug\section6fivenumbers.exe
+C:\Users\colin\source\repos\section6fivenumbers\section6fivenumbers\obj\Debug\section6fivenumbers.pdb

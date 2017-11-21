@@ -1,0 +1,6 @@
+C:\Users\colin\source\repos\section8stringbuilder\section8stringbuilder\bin\Debug\section8stringbuilder.exe.config
+C:\Users\colin\source\repos\section8stringbuilder\section8stringbuilder\bin\Debug\section8stringbuilder.exe
+C:\Users\colin\source\repos\section8stringbuilder\section8stringbuilder\bin\Debug\section8stringbuilder.pdb
+C:\Users\colin\source\repos\section8stringbuilder\section8stringbuilder\obj\Debug\section8stringbuilder.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\section8stringbuilder\section8stringbuilder\obj\Debug\section8stringbuilder.exe
+C:\Users\colin\source\repos\section8stringbuilder\section8stringbuilder\obj\Debug\section8stringbuilder.pdb

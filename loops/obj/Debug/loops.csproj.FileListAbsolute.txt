@@ -1,0 +1,6 @@
+C:\Users\colin\source\repos\loops\loops\bin\Debug\loops.exe.config
+C:\Users\colin\source\repos\loops\loops\bin\Debug\loops.exe
+C:\Users\colin\source\repos\loops\loops\bin\Debug\loops.pdb
+C:\Users\colin\source\repos\loops\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\loops\loops\obj\Debug\loops.exe
+C:\Users\colin\source\repos\loops\loops\obj\Debug\loops.pdb

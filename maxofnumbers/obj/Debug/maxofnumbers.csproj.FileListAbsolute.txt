@@ -1,0 +1,7 @@
+C:\Users\colin\source\repos\maxofnumbers\maxofnumbers\bin\Debug\maxofnumbers.exe.config
+C:\Users\colin\source\repos\maxofnumbers\maxofnumbers\bin\Debug\maxofnumbers.exe
+C:\Users\colin\source\repos\maxofnumbers\maxofnumbers\bin\Debug\maxofnumbers.pdb
+C:\Users\colin\source\repos\maxofnumbers\maxofnumbers\obj\Debug\maxofnumbers.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\maxofnumbers\maxofnumbers\obj\Debug\maxofnumbers.exe
+C:\Users\colin\source\repos\maxofnumbers\maxofnumbers\obj\Debug\maxofnumbers.pdb
+C:\Users\colin\source\repos\maxofnumbers\maxofnumbers\obj\Debug\maxofnumbers.csprojResolveAssemblyReference.cache

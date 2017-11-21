@@ -1,0 +1,6 @@
+C:\Users\colin\source\repos\speedlimit\speedlimit\bin\Debug\speedlimit.exe.config
+C:\Users\colin\source\repos\speedlimit\speedlimit\bin\Debug\speedlimit.exe
+C:\Users\colin\source\repos\speedlimit\speedlimit\bin\Debug\speedlimit.pdb
+C:\Users\colin\source\repos\speedlimit\speedlimit\obj\Debug\speedlimit.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\speedlimit\speedlimit\obj\Debug\speedlimit.exe
+C:\Users\colin\source\repos\speedlimit\speedlimit\obj\Debug\speedlimit.pdb

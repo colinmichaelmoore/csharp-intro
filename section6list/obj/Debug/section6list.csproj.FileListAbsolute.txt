@@ -1,0 +1,6 @@
+C:\Users\colin\source\repos\section6list\section6list\bin\Debug\section6list.exe.config
+C:\Users\colin\source\repos\section6list\section6list\bin\Debug\section6list.exe
+C:\Users\colin\source\repos\section6list\section6list\bin\Debug\section6list.pdb
+C:\Users\colin\source\repos\section6list\section6list\obj\Debug\section6list.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\section6list\section6list\obj\Debug\section6list.exe
+C:\Users\colin\source\repos\section6list\section6list\obj\Debug\section6list.pdb

@@ -1,0 +1,6 @@
+C:\Users\colin\source\repos\section6quit\section6quit\bin\Debug\section6quit.exe.config
+C:\Users\colin\source\repos\section6quit\section6quit\bin\Debug\section6quit.exe
+C:\Users\colin\source\repos\section6quit\section6quit\bin\Debug\section6quit.pdb
+C:\Users\colin\source\repos\section6quit\section6quit\obj\Debug\section6quit.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\section6quit\section6quit\obj\Debug\section6quit.exe
+C:\Users\colin\source\repos\section6quit\section6quit\obj\Debug\section6quit.pdb

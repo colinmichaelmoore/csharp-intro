@@ -1,0 +1,7 @@
+C:\Users\colin\source\repos\reftypes\reftypes\obj\Debug\reftypes.csprojResolveAssemblyReference.cache
+C:\Users\colin\source\repos\reftypes\reftypes\obj\Debug\reftypes.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\reftypes\reftypes\bin\Debug\reftypes.exe.config
+C:\Users\colin\source\repos\reftypes\reftypes\bin\Debug\reftypes.exe
+C:\Users\colin\source\repos\reftypes\reftypes\bin\Debug\reftypes.pdb
+C:\Users\colin\source\repos\reftypes\reftypes\obj\Debug\reftypes.exe
+C:\Users\colin\source\repos\reftypes\reftypes\obj\Debug\reftypes.pdb

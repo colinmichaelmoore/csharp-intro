@@ -1,0 +1,6 @@
+C:\Users\colin\source\repos\oktoexit\oktoexit\obj\Debug\oktoexit.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\oktoexit\oktoexit\bin\Debug\oktoexit.exe.config
+C:\Users\colin\source\repos\oktoexit\oktoexit\bin\Debug\oktoexit.exe
+C:\Users\colin\source\repos\oktoexit\oktoexit\bin\Debug\oktoexit.pdb
+C:\Users\colin\source\repos\oktoexit\oktoexit\obj\Debug\oktoexit.exe
+C:\Users\colin\source\repos\oktoexit\oktoexit\obj\Debug\oktoexit.pdb

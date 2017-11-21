@@ -1,0 +1,6 @@
+C:\Users\colin\source\repos\threenoremainder\threenoremainder\bin\Debug\threenoremainder.exe.config
+C:\Users\colin\source\repos\threenoremainder\threenoremainder\bin\Debug\threenoremainder.exe
+C:\Users\colin\source\repos\threenoremainder\threenoremainder\bin\Debug\threenoremainder.pdb
+C:\Users\colin\source\repos\threenoremainder\threenoremainder\obj\Debug\threenoremainder.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\threenoremainder\threenoremainder\obj\Debug\threenoremainder.exe
+C:\Users\colin\source\repos\threenoremainder\threenoremainder\obj\Debug\threenoremainder.pdb

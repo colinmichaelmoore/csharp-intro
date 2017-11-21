@@ -1,0 +1,6 @@
+C:\Users\colin\source\repos\section6facebook\section6facebook\bin\Debug\section6facebook.exe.config
+C:\Users\colin\source\repos\section6facebook\section6facebook\bin\Debug\section6facebook.exe
+C:\Users\colin\source\repos\section6facebook\section6facebook\bin\Debug\section6facebook.pdb
+C:\Users\colin\source\repos\section6facebook\section6facebook\obj\Debug\section6facebook.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\section6facebook\section6facebook\obj\Debug\section6facebook.exe
+C:\Users\colin\source\repos\section6facebook\section6facebook\obj\Debug\section6facebook.pdb

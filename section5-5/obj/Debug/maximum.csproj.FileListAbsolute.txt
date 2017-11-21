@@ -1,0 +1,6 @@
+C:\Users\colin\source\repos\maximum\maximum\bin\Debug\maximum.exe.config
+C:\Users\colin\source\repos\maximum\maximum\bin\Debug\maximum.exe
+C:\Users\colin\source\repos\maximum\maximum\bin\Debug\maximum.pdb
+C:\Users\colin\source\repos\maximum\maximum\obj\Debug\maximum.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\maximum\maximum\obj\Debug\maximum.exe
+C:\Users\colin\source\repos\maximum\maximum\obj\Debug\maximum.pdb

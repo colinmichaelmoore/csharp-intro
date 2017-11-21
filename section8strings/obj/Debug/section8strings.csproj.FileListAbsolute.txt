@@ -1,0 +1,7 @@
+C:\Users\colin\source\repos\section8strings\section8strings\bin\Debug\section8strings.exe.config
+C:\Users\colin\source\repos\section8strings\section8strings\bin\Debug\section8strings.exe
+C:\Users\colin\source\repos\section8strings\section8strings\bin\Debug\section8strings.pdb
+C:\Users\colin\source\repos\section8strings\section8strings\obj\Debug\section8strings.csprojResolveAssemblyReference.cache
+C:\Users\colin\source\repos\section8strings\section8strings\obj\Debug\section8strings.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\section8strings\section8strings\obj\Debug\section8strings.exe
+C:\Users\colin\source\repos\section8strings\section8strings\obj\Debug\section8strings.pdb

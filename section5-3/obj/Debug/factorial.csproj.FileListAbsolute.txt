@@ -1,0 +1,6 @@
+C:\Users\colin\source\repos\factorial\factorial\bin\Debug\factorial.exe.config
+C:\Users\colin\source\repos\factorial\factorial\bin\Debug\factorial.exe
+C:\Users\colin\source\repos\factorial\factorial\bin\Debug\factorial.pdb
+C:\Users\colin\source\repos\factorial\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\factorial\factorial\obj\Debug\factorial.exe
+C:\Users\colin\source\repos\factorial\factorial\obj\Debug\factorial.pdb
